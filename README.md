@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.bing.com/images/search?view=detailV2&ccid=RLOWeHHK&id=F0F0FE12949123E8ED1E5AC6B6537705814DAC79&thid=OIP.RLOWeHHK0_IUKSC_sG7cSgHaDF&mediaurl=https%3a%2f%2fstorage.googleapis.com%2fgweb-uniblog-publish-prod%2foriginal_images%2fandroid_12_developer_preview.gif&exph=1200&expw=2880&q=android+developer+gif&simid=608054588357442591&FORM=IRPRST&ck=D7E6CFAD94B9FC1D69E6E0F9A20E18E9&selectedIndex=10&itb=0&ajaxhist=0&ajaxserp=0"  />
+  <img height="150" src="https://th.bing.com/th/id/OIP.TC4lKYgpywLS9GLoAhQQTgHaEK?rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
